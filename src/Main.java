@@ -1,5 +1,9 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+/**
+Bitya Susana id: 345112197 bityagay@gmail.com
+Ariella Boukobza id: 002075222 ariellaatlan@gmail.com
+*/
 import static java.lang.System.out;
 
 import static primitives.Util.isZero;
